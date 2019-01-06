@@ -36,7 +36,7 @@ footer li.last {margin-right: 0}
 footer a {color: #fff;text-decoration: none}
 
 @media only screen and (max-width: 769px) {
-    html,body{min-width:initial;min-height:820px;}
+    html,body{min-width:initial;min-height:900px}
     body {background: url('../img/m_background.png') no-repeat 50% 100% #d79151;background-size: cover}
 
     #wrap {position:static;width:320px;height: initial;margin:0 auto}
